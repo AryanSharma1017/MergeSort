@@ -1,0 +1,30 @@
+C:\SIT 221 (DSA)\Task3.2D\bin\Debug\net7.0\Task3.2D.exe
+C:\SIT 221 (DSA)\Task3.2D\bin\Debug\net7.0\Task3.2D.deps.json
+C:\SIT 221 (DSA)\Task3.2D\bin\Debug\net7.0\Task3.2D.runtimeconfig.json
+C:\SIT 221 (DSA)\Task3.2D\bin\Debug\net7.0\Task3.2D.dll
+C:\SIT 221 (DSA)\Task3.2D\bin\Debug\net7.0\Task3.2D.pdb
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.csproj.AssemblyReference.cache
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.AssemblyInfoInputs.cache
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.AssemblyInfo.cs
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.csproj.CoreCompileInputs.cache
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.dll
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\refint\Task3.2D.dll
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.pdb
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\Task3.2D.genruntimeconfig.cache
+C:\SIT 221 (DSA)\Task3.2D\obj\Debug\net7.0\ref\Task3.2D.dll
+C:\SIT 221 (DSA)\Task 3.2D\bin\Debug\net7.0\Task3.2D.exe
+C:\SIT 221 (DSA)\Task 3.2D\bin\Debug\net7.0\Task3.2D.deps.json
+C:\SIT 221 (DSA)\Task 3.2D\bin\Debug\net7.0\Task3.2D.runtimeconfig.json
+C:\SIT 221 (DSA)\Task 3.2D\bin\Debug\net7.0\Task3.2D.dll
+C:\SIT 221 (DSA)\Task 3.2D\bin\Debug\net7.0\Task3.2D.pdb
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.csproj.AssemblyReference.cache
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.AssemblyInfoInputs.cache
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.AssemblyInfo.cs
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.csproj.CoreCompileInputs.cache
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.dll
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\refint\Task3.2D.dll
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.pdb
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\Task3.2D.genruntimeconfig.cache
+C:\SIT 221 (DSA)\Task 3.2D\obj\Debug\net7.0\ref\Task3.2D.dll
